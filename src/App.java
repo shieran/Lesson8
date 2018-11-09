@@ -6,7 +6,7 @@ public class App {
         Scanner scanner = new Scanner(System.in);
 //       getUserInput(scanner,1,5);
 //       getUserInputNoRecursion(scanner, 1,5);
-createArray(scanner);
+//         createArray(scanner);
 
 
     }
